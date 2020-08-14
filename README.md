@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I’m John Johnson Okah 👋
+#### And am a Software Developer. 
+
+- 🔭 I’m currently working on a Facebook-Andela Project
+- 🌱 I’m currently learning ReactJS, Machine Learning
+- 👯 I’m looking to collaborate on any mind-blowing project
+- 💬 Ask me about Python or Django
+- 📫 How to reach me: johnjohnsonokah@gmail.com, [Twitter](https://twitter.com/johnjohnsonokah)
+- ⚡ Fun fact: I love lucid dreaming.
+
 
 <!--
 **JohnJohnsonOkah/johnjohnsonokah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
